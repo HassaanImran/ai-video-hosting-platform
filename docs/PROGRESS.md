@@ -1,0 +1,4 @@
+- [ ] Project Setup
+- [ ] Authentication
+- [ ] Upload System
+- [ ] AI Moderation
